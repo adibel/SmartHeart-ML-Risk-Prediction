@@ -1,11 +1,11 @@
 SmartHeart: Intelligent Heart Disease Risk Prediction System 
 
-SmartHeart is a machine learning-based decision support tool designed to approximate the likelihood of heart disease by utilizing clinical features. This project implements a comprehensive pipeline, from data ingestion and preprocessing to multi-model evaluation, to provide reliable, data-driven diagnostic insights.
+--> SmartHeart is a machine learning-based decision support tool designed to approximate the likelihood of heart disease by utilizing clinical features. This project implements a comprehensive pipeline, from data ingestion and preprocessing to multi-model evaluation, to provide reliable, data-driven diagnostic insights.
 
 
 Key Performance Highlights:-
 
-The Random Forest classifier was selected as the optimal model for the system. Achieved a peak predictive accuracy of 97%. Maintained high reliability with 0.96 precision and 0.98 recall. Demonstrated near-perfect classification ability with an AUC score of 0.9967.
+--> The Random Forest classifier was selected as the optimal model for the system. Achieved a peak predictive accuracy of 97%. Maintained high reliability with 0.96 precision and 0.98 recall. Demonstrated near-perfect classification ability with an AUC score of 0.9967.
 
 
 System Architecture:-
