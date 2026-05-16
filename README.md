@@ -10,39 +10,39 @@ Key Performance Highlights:-
 
 System Architecture:-
 
-Data Ingestion: Loads and validates the cardiovascular dataset extracted from Kaggle.
+~ Data Ingestion: Loads and validates the cardiovascular dataset extracted from Kaggle.
 
-Preprocessing: Includes median/mode imputation for missing data, one-hot encoding for categorical variables, and feature scaling.
+~ Preprocessing: Includes median/mode imputation for missing data, one-hot encoding for categorical variables, and feature scaling.
 
-Model Training: Evaluates four supervised techniques: Logistic Regression, Decision Tree, Random Forest, and Gaussian Naïve Bayes.
+~ Model Training: Evaluates four supervised techniques: Logistic Regression, Decision Tree, Random Forest, and Gaussian Naïve Bayes.
 
-Evaluation: Metrics include Confusion Matrix interpretation and ROC-AUC analysis.
+~ Evaluation: Metrics include Confusion Matrix interpretation and ROC-AUC analysis.
 
 
 Results:-
 
 Model: Random Forest
 
-Accuracy = 0.9700, Precision = 0.9631, Recall = 0.9795
+~ Accuracy = 0.9700, Precision = 0.9631, Recall = 0.9795
 
 Model: Decision Tree
 
-Accuracy = 0.8801, Precision = 0.8713, Recall = 0.9010
+~ Accuracy = 0.8801, Precision = 0.8713, Recall = 0.9010
 
 Model: Logistic Regression
 
-Accuracy = 0.7125, Precision = 0.6935, Recall = 0.7952
+~ Accuracy = 0.7125, Precision = 0.6935, Recall = 0.7952
 
 Model: Naive Bayes
 
-Accuracy = 0.6914, Precision = 0.6735, Recall = 0.7816
+~ Accuracy = 0.6914, Precision = 0.6735, Recall = 0.7816
 
 
 Ethical & Social Impact:-
 
-Checked data distribution to prevent demographic bias in predictions. Ensured clinical data was anonymized for confidentiality. Supports SDG 3 (Good Health and Well-being) by encouraging preventive medicine through early detection.
+--> Checked data distribution to prevent demographic bias in predictions. Ensured clinical data was anonymized for confidentiality. Supports SDG 3 (Good Health and Well-being) by encouraging preventive medicine through early detection.
 
 
 Tech Stack:-
 
-Python was the primary language used in the building & training of this model. The librairies that were utilized were Scikit-learn (Model Training), Pandas (Data Management), Matplotlib (Visualization). The model ran on a Command Line Interface (CLI).
+--> Python was the primary language used in the building & training of this model. The librairies that were utilized were Scikit-learn (Model Training), Pandas (Data Management), Matplotlib (Visualization). The model ran on a Command Line Interface (CLI).
