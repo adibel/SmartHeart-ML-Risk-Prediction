@@ -11,7 +11,6 @@ Key Performance Highlights:-
 System Architecture:-
 
 ~ Data Ingestion: Loads and validates the cardiovascular dataset extracted from Kaggle.
-
 ~ Preprocessing: Includes median/mode imputation for missing data, one-hot encoding for categorical variables, and feature scaling.
 
 ~ Model Training: Evaluates four supervised techniques: Logistic Regression, Decision Tree, Random Forest, and Gaussian Naïve Bayes.
